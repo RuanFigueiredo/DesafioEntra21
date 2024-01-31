@@ -1,0 +1,9 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #ffff;
+}
+header{
+    background-color: blue;
+    color:#ffff;
+    padding:20  px ;
+}

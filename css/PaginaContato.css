@@ -1,0 +1,45 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+header{
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 3em;
+}
+
+form {
+    margin:0 auto;
+    width: 500px;
+}
+
+input, textarea {
+    padding: 20px;
+    border: 1px solid #ccc;
+    width: 100%;
+
+}
+
+footer{
+    background-color: #cccccc;
+    padding:20 px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.card-footer{
+    text-align: center;
+}
+
+.input-group{
+    height: 100px;
+}
